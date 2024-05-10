@@ -1,7 +1,7 @@
 # Data-Narratives
 
 
-the links to the data narratives
+the links to the datasets
 
 
 Data Narrative 1: https://github.com/zygmuntz/goodbooks-10k?authuser=0
